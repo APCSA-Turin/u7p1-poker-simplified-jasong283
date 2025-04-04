@@ -18,4 +18,9 @@ public class Card{
         return rank + " of " + suit;
     }
 
+    public boolean indexOf(String string) {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'indexOf'");
+    }
+
 }
